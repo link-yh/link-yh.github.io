@@ -1,4 +1,4 @@
-# Blog Title :link: https://link-yh.github.io/yh-link.github.io 
+# Blog Title :link: https://link-yh.github.io/
 ### :page_facing_up: [1](https://link-yh.github.io/yh-link.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 4 
